@@ -61,3 +61,7 @@ This repo only adds the Claude workflow and safety gates on top. Read each proje
 - Root and app tools: the authors linked above.
 - Demo footage in the launch post: @0xCodez and BMW life 2.0 on YouTube.
 - Workflow and gates: [f0rgent](https://f0rgent.github.io)
+
+---
+
+Don't have Claude Code yet? [Get Claude here](https://claude.ai/referral/IL0FPScZCw).
